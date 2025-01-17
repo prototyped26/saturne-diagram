@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-2" value="Admin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="489" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QYqCifuP0dXyMhB2jT06-1" target="QYqCifuP0dXyMhB2jT06-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,10 +17,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-4" value="Gerer les utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="465" width="150" height="60" as="geometry" />
+          <mxGeometry x="350" y="594" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-5" value="Gérer les rôles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="540" width="150" height="60" as="geometry" />
+          <mxGeometry x="350" y="669" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QYqCifuP0dXyMhB2jT06-2" target="QYqCifuP0dXyMhB2jT06-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="QYqCifuP0dXyMhB2jT06-13" value="Gérer l&#39;exercice&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QYqCifuP0dXyMhB2jT06-14" value="Gérer le scoring" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
